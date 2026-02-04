@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Android%20Developer%20Student&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Android%20Developer%20Student&fontSize=40)
 
 ### 🧩 About Me
 Learning to build Android apps using Kotlin and Jetpack Compose.
