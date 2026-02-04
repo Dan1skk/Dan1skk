@@ -3,6 +3,12 @@
 ### 🧩 About Me
 Learning to build Android apps using Kotlin and Jetpack Compose.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dan1skk/Dan1skk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dan1skk/Dan1skk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Dan1skk/Dan1skk/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🛠 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
