@@ -1,24 +1,19 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Android%20Developer%20Student&fontSize=40)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8cb808d2-fbea-4f3f-b720-042ae3ee6ab7" width="250">
-</p>
+### 🧩 About Me
+Learning to build Android apps using Kotlin and Jetpack Compose.
 
-<p align="center">
-  <code>𝕨 𝕒 𝕤 𝕥 𝕖 𝕕</code>
-</p>
+### 🛠 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p align="center">
-  <font size="2">
-  ┌─── ⋆⋅☆⋅⋆ ───┐<br>
-  <b>𝐤𝐨𝐭𝐥𝐢𝐧</b> / <b>𝐩𝐲𝐭𝐡𝐨𝐧</b><br>
-  └─── ⋆⋅☆⋅⋆ ───┘
-  </font>
-</p>
+### 📫 Contact
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/your_id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+<br/>
 
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer)
