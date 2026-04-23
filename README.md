@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4aa4f1&height=80&section=header)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dan1skk/Dan1skk/output/github-contribution-grid-snake-dark.svg">
@@ -8,4 +8,4 @@
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4aa4f1&height=80&section=footer)
