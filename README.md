@@ -9,6 +9,6 @@
   </picture>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4aa4f1&height=80&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8d2b2&height=80&section=footer" alt="Footer" />
 
 </div>
